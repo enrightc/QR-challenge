@@ -1,0 +1,23 @@
+body {
+    background: lightblue
+}
+
+.white-box {
+    background: white;
+    max-width: 300px;
+    margin: auto;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    padding: 20px;
+    border-radius: 25px;
+    box-shadow: 0px 0px 10px rgba(128, 128, 128, 0.3);
+
+    
+}
+
+.qr-code {
+    aspect-ratio: 1/1;
+    width: 100%;
+    border-radius: 25px;
+}
+

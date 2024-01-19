@@ -1,7 +1,29 @@
-# QR-challenge
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Brief
+## Table of contents
 
-Your challenge is to build out this QR code component and get it looking as close to the design as possible.
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  -
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+## Overview
+
+### Screenshot
+
+![QR Challenge Result](docs/readme-images/screenshot.png)
+
+### Links
+
+- Solution URL: [Add solution URL here](https://github.com/enrightc/QR-challenge)
+- Live Site URL: [Add live site URL here](https://enrightc.github.io/QR-challenge/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- CSS Grid

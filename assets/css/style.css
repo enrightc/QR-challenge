@@ -1,9 +1,9 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
 
 body {
-    background: #D6E1EE;
+    background: hsl(212, 45%, 89%);
 }
 
 .white-box {
@@ -18,30 +18,40 @@ body {
 }
 
 .qr-code {
-    aspect-ratio: 1/1;
     width: 100%;
     border-radius: 25px;
 }
 
-h1 {
-    font-family: "Roboto", sans-serif;
-    font-weight: 700;
-    font-style: normal; 
-    font-size: 23px;
-    line-height: 125%;
-    letter-spacing: 1%;
-}
-
-p {
-    font-family: "Roboto", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    color: #848792; 
-    font-size: 18px;
-    line-height: 125%;
-}
 .text-wrapper {
     text-align: center;
     padding: 0 10px 25px 10px;
 }
+
+.text-wrapper {
+    text-align: center;
+    padding: 0 10px 25px 10px;
+}
+
+h1 {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 23px;
+    line-height: 125%;
+    letter-spacing: 1%;
+    color: hsl(218, 44%, 22%);
+}
+
+p {
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: hsl(220, 15%, 55%);
+    font-size: 18px;
+    line-height: 125%;
+}
+
+
 
